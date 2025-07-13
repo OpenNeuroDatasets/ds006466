@@ -1,0 +1,15 @@
+{
+    "Name": "HeartBEAM",
+    "License": "CC0",
+    "Authors": [
+        "",
+        "Mara Mather",
+        "Santiago Morales",
+        "Joshua Senior"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006466.v1.0.0"
+}
