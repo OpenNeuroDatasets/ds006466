@@ -1,7 +1,14 @@
 {
-  "Name": "HeartBEAM",
-  "License": "",
-  "Authors": [""],
-  "ReferencesAndLinks": [""],
-  "BIDSVersion": "1.1.1"
+    "Name": "HeartBEAM",
+    "License": "CC0",
+    "Authors": [
+        "",
+        "Mara Mather",
+        "Santiago Morales",
+        "Joshua Senior"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.1.1"
 }
